@@ -1,6 +1,6 @@
 <h1 align="center" style="border-bottom: none">
     <a href="https://unifyair.io" target="_blank">
-        <img alt="UnifyAir" src="./logo_full.png" width="100" height="100">
+        <img alt="UnifyAir" src="./logo_full.png" height="100">
     </a>
     <br>UnifyAir
 </h1>
